@@ -9,4 +9,4 @@ This project is a face recognition project using mediapipe and cv2. These are th
 
 ![screenshot](https://github.com/baverkacar/face-detector/blob/main/screenshots/unknown-2.png?raw=true)
 
-![screenshot](https://github.com/baverkacar/face-detector/blob/main/screenshots/unknownpng?raw=true)
+![screenshot](https://github.com/baverkacar/face-detector/blob/main/screenshots/unknown.png?raw=true)
